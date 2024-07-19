@@ -12,13 +12,12 @@ Our work is based on [UniK-QA](https://github.com/facebookresearch/UniK-QA), tha
 If you find this repo helpful, please cite the following paper:
 
 ```bibtex
-@misc{dong2023bridging,
-      title={Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA}, 
-      author={Guanting Dong and Rumei Li and Sirui Wang and Yupeng Zhang and Yunsen Xian and Weiran Xu},
-      year={2023},
-      eprint={2308.14436},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{dong2023bridging,
+  title={Bridging the kb-text gap: Leveraging structured knowledge-aware pre-training for kbqa},
+  author={Dong, Guanting and Li, Rumei and Wang, Sirui and Zhang, Yupeng and Xian, Yunsen and Xu, Weiran},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={3854--3859},
+  year={2023}
 }
 ```
 
